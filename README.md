@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Nataly</a> 👽</h1>
+<h1 align="center">Hi there, I'm Nataly 👽</h1>
 
 - 💙 I'm a frontend developer
 - 💡 I’m currently working on internal automation at GNIVС
